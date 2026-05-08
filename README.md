@@ -28,17 +28,6 @@ Copy
 - **UI:** Windows Forms (WinForms)
 - **IDE:** Visual Studio
 ---
- 
-## 📸 Screenshots
- 
-> *(Add your screenshots here)*
- 
-```
-![Main Window](screenshot.png)
-```
- 
----
- 
 ## 🚀 Getting Started
  
 ### Prerequisites
@@ -51,7 +40,7 @@ Make sure you have the following installed:
  
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/notepad-app.git
+https://github.com/hashim-ali-19/Notepad_windowform-.net-.git
 ```
  
 2. **Open in Visual Studio:**
