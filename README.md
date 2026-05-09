@@ -2,7 +2,9 @@ Readme · MD
 Copy
 
 # 📝 Notepad App — C# WinForms
- 
+
+![notepad](mininotepad.png)
+
 > A clean, lightweight text editor built with **C# .NET Windows Forms**, inspired by the simplicity of classic Windows Notepad.
  
 ---
@@ -29,15 +31,7 @@ Copy
 - **IDE:** Visual Studio
 ---
 ## 🚀 Getting Started
- 
-### Prerequisites
- 
-Make sure you have the following installed:
- 
-- [Visual Studio](https://visualstudio.microsoft.com/) (Community or higher)
-- .NET Framework (included with Visual Studio)
-### Installation
- 
+
 1. **Clone the repository:**
 ```bash
 https://github.com/hashim-ali-19/Notepad_windowform-.net-.git
